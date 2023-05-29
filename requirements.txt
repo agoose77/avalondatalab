@@ -5,6 +5,4 @@ pandas
 matplotlib
 pyodbc
 seaborn
-sklearn
-warnings
-unixodbc-dev
+scikit-learn
